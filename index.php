@@ -12,7 +12,7 @@
                 $teamPF =  17;
                 $teamAST = 31;
             ?>
-	        <h1>Caculate the player's share of the team's marginal defense.</h1>
+	        <h1>Calculate the player's share of the team's marginal defense.</h1>
             <form action="" method="post">
                 <div class="content">
                     <div>
