@@ -1,0 +1,24 @@
+.container{
+	width:60%;
+	height:70vh;
+	margin:auto;
+	background-image: url('court.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.content{
+	margin:2% 5% auto 5%;
+	font-size:1.5vw;
+}
+
+input,button{
+	font-size:1vw;
+}
+#output{
+	padding:2%;
+	margin:2;
+	background: white;
+}
